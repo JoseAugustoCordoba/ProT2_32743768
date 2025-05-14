@@ -1,0 +1,17 @@
+body {
+    background-color: #eaf2e3;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+.parrafouno {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}    
+.parrafos {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
